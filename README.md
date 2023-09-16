@@ -1,2 +1,2 @@
 # Program-Login
-membuat program login sederhana menggunakan bahasa java
+membuat program konsep login sederhana menggunakan bahasa java berbasis CLI
